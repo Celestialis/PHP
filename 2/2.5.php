@@ -14,3 +14,5 @@
   <footer>
   &copy; <?php echo date('Y'); ?> Все права защищены.
   </footer>
+  </body>
+</html>
